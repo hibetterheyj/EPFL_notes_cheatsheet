@@ -1,4 +1,10 @@
-## :world_map: EPFL20FallMindMap
+## EPFL20FallMindMap
+
+###:world_map: Glimpse
+
+ ![SVM](./MICRO-455/SVM.svg)
+
+<center><small>SVM from MICRO-455</small></center>
 
 ### :school: Courses I take
 
