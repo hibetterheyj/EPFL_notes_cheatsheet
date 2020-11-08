@@ -1,14 +1,13 @@
 ## EPFL20FallMindMap
 
-###:world_map: Glimpse
+### :world_map: Glimpse
 
+- Example1: SVM from MICRO-455
  ![SVM](./MICRO-455/SVM.svg)
-
-<center><small>SVM from MICRO-455</small></center>
 
 ### :school: Courses I take
 
-- MICRO-455
+- [MICRO-455](https://github.com/hibetterheyj/EPFL20FallMindMap/tree/main/MICRO-455) Applied Machine Learning
 - MICRO-452
 - ME-425
 - MATH-413
