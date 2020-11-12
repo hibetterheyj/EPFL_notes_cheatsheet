@@ -2,7 +2,11 @@
 
 ### :world_map: Glimpse
 
-<details open>   <summary><b>Example1: GMM from MICRO-455</b></summary> 
+<details>   <summary><b>Example1: NN from MICRO-455</b></summary> <div align="center"> <img src="https://raw.githubusercontent.com/hibetterheyj/EPFL20FallMindMap/main/MICRO-455/svg/Week9_NN.svg" alt="NN from MICRO-455"> </div> </details>
+
+<details>   <summary><b>Example2: SVM from MICRO-455</b></summary> <div align="center"> <img src="https://raw.githubusercontent.com/hibetterheyj/EPFL20FallMindMap/main/MICRO-455/svg/Week7_SVM.svg" alt="SVM from MICRO-455"> </div> </details>
+
+<details open>   <summary><b>Example3: GMM from MICRO-455</b></summary> 
     <div align="center"> 
         <img src="https://raw.githubusercontent.com/hibetterheyj/EPFL20FallMindMap/main/MICRO-455/svg/Week5_GMM2.svg" alt="GMM2 from MICRO-455"> 
         <img src="https://raw.githubusercontent.com/hibetterheyj/EPFL20FallMindMap/main/MICRO-455/svg/Week5_GMM3.svg" alt="GMM3 from MICRO-455"> 
@@ -10,7 +14,6 @@
     </div> 
 </details>
 
-<details open>   <summary><b>Example2: SVM from MICRO-455</b></summary> <div align="center"> <img src="https://raw.githubusercontent.com/hibetterheyj/EPFL20FallMindMap/main/MICRO-455/svg/Week7_SVM.svg" alt="SVM from MICRO-455"> </div> </details>
 
 
 ### :school: Courses I take
