@@ -1,0 +1,85 @@
+#######################################
+# Modified from https://github.com/github/gitignore/blob/master/TeX.gitignore
+# Project name: TeX.gitignore_v1.0
+# Author name: Yujie He
+# Created time: 20200125
+# Last edited time: 20200125
+#######################################
+
+## Folder
+zips/
+
+## 特别注意的pdf文件
+## Generated if empty string is given at "Please type another file name for output:"
+.pdf
+
+## 核心编译文件，若需保存，可以添加注释
+## Core latex/pdflatex auxiliary files:
+# Comment the next line if you want to keep your tikz graphics files
+*.aux
+*.log
+*.out
+*.toc
+
+*.lof
+*.lot
+*.fls
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## 中间文件，若需保存，可以取消注释
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+#*.ps
+#*.eps
+#*.pdf
+
+## 引用库文件
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## 编译工具文件
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# TIKZ库中间文件，如需保存，可以注释
+# TODO Comment the next line if you want to keep your tikz graphics files
+*.tikz
+*-tikzDictionary
+
+# TikZ & PGF
+*.dpth
+*.md5
+*.auxlock
+
+## 编译器专有文件
+## Editors:
+# WinEdt
+*.bak
+*.sav
+
+# Texpad
+.texpadtmp
+
+# LyX
+*.lyx~
+
+# auto folder when using emacs and auctex
+./auto/*
+*.el
